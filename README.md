@@ -1,1 +1,7 @@
-# Z87-HD3-OC-
+# 
+
+MOBO: Z87-HD3
+
+CPU: 4770k
+
+GPU: RX 490
